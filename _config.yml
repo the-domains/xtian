@@ -1,0 +1,28 @@
+name: xtian
+favicon: null
+layout_spectrum: 0.3890381995588541
+typography_spectrum: 0.4321981826797128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.49168342142365873
+  lightness: 0.9055867970455438
+  saturation: 0.7176539835054427
+  rhythmicContrast: 0.5032824503723532
+purpose: []
